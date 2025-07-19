@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SowjanyaChereddy/Sowjanya_Chereddy/blob/main/Profile_banner.png?raw=true" width="100%" />
+  <img src="https://github.com/SowjanyaChereddy/SowjanyaChereddy/blob/main/Profile_banner.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center"> Sowjanya Chereddy </h1>
