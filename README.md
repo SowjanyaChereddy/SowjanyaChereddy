@@ -4,10 +4,6 @@
 
 <h1 align="center"> Sowjanya Chereddy </h1>
 
-<p align="center">
-  <img src="https://github.com/SowjanyaChereddy/Sowjanya_Chereddy/blob/main/passport size photo.jpeg?raw=true" width="250px" style="border-radius:50%;">
-</p>
-
 <h2 align="center">ACCA Aspirant 💸</h2>
 
 
