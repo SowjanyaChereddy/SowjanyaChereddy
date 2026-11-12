@@ -21,7 +21,5 @@
 - Gmail - Sowjanyachereddy1234@gmail.com
 
 
-### 📊 GitHub Stats
-![Sowjanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SowjanyaChereddy&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SowjanyaChereddy&theme=transparent)](https://git.io/streak-stats)  
+
 
