@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SowjanyaChereddy/SowjanyaChereddy/blob/main/Profile_banner.png?raw=true" width="100%" />
-</p>
-
 <h1 align="center"> Sowjanya Chereddy </h1>
 
 <h2 align="center"> 🎓ACCA Affiliate </h2>
