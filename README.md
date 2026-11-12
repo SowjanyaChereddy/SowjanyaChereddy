@@ -4,13 +4,17 @@
 
 <h1 align="center"> Sowjanya Chereddy </h1>
 
-<h2 align="center">ACCA Aspirant 💸</h2>
+<h2 align="center"> 🎓ACCA Affiliate </h2>
 
 
-- 🎓 Currently pursuing **BA (Hons) Accounting and Finance** at **University of West London**
-- 🧮 Interested in **Accounting, Auditing, Finance, Corporate Tax**
-- 📚 Learning **Power BI, Zoho Books, GitHub Projects, ACCA Skills**
-- 🚀 My Goal: **Become a Financially Smart Professional who balances numbers & technology**
+-  **Accounting and Finance Graduate** from **University of West London (1st class)**
+- 🧮 Interested in **Accounting, Auditing and Finance**
+- 📚 Learning **Power BI, Zoho Books, GitHub Projects, SAP, Excel and many other ERP softwares**
+
+
+## 🚀 My Learning Goals in 2026:
+- ✅ Master **Power BI & Financial Dashboards**
+- Excel in SAP by getting a good experience from a reputed organisation. 
 
 ### 🌐 Connect with me:
 - LinkedIn - www.linkedin.com/in/sowjanya-chereddy-108s206s4
@@ -19,19 +23,5 @@
 
 ### 📊 GitHub Stats
 ![Sowjanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SowjanyaChereddy&show_icons=true&theme=transparent)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SowjanyaChereddy&theme=transparent)](https://git.io/streak-stats)
-
----
-
-### ✨ Projects I'm Working On:
-- 🧾 **Zoho Books Practice Projects** — exploring accounting automations
-
----
-
-### 🚀 My Learning Goals in 2025:
-- ✅ Clear all remaining **ACCA Papers**
-- ✅ Master **Power BI & Financial Dashboards**
-- ✅ Learn basics of **Web Development** to build my own websites
-
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SowjanyaChereddy&theme=transparent)](https://git.io/streak-stats)  
 
